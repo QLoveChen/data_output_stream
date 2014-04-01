@@ -1,0 +1,45 @@
+{
+  "name": "data_output_stream",
+  "version": "0.0.1",
+  "description": "java.io.DataOutStream in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test-all"
+  },
+  "config": {
+    "cov": {
+      "threshold": 100
+    }
+  },
+  "dependencies": {
+    "long": "1.1.2"
+  },
+  "devDependencies": {
+    "autod": "*",
+    "contributors": "*",
+    "cov": "*",
+    "istanbul-harmony": "*",
+    "jshint": "*",
+    "mocha": "*",
+    "should": "3.2.0"
+  },
+  "homepage": "https://github.com/fengmk2/data_output_stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fengmk2/data_output_stream.git",
+    "web": "https://github.com/fengmk2/data_output_stream"
+  },
+  "bugs": {
+    "url": "https://github.com/fengmk2/data_output_stream/issues",
+    "email": "fengmk2@gmail.com"
+  },
+  "keywords": [
+    "data_output_stream", "DataOutputStream", "java.io.DataOutputStream",
+    "OutputStream"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.github.com)",
+  "license": "MIT"
+}
